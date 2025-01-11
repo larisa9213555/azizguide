@@ -1,4 +1,4 @@
-import{d as _,_ as b,u as w,r as g,c as y,a as e,t as r,w as n,b as R,e as T,v as m,f as $,g as A,h as k,i as S,j as V,F as E,k as D,o as h,l as L,m as C,A as I}from"./index-ndsBt6Q_.js";import{P as N}from"./Popup-DNIEribR.js";const O=_("telegram",{state:()=>({TELEGRAM_TOKEN:"8173145553:AAFSfLgn2Y7UzXmdQjZr5ROayCZkVHuLZAE",CHAT_ID:"971193945"}),actions:{async sendToTelegram(u,d,p){const s=`
+import{d as _,_ as b,u as w,r as g,c as y,a as e,t as r,w as n,b as R,e as T,v as m,f as $,g as A,h as k,i as S,j as V,F as E,k as D,o as h,l as L,m as C,A as I}from"./index-48uazDeb.js";import{P as N}from"./Popup-C4z6BDJt.js";const O=_("telegram",{state:()=>({TELEGRAM_TOKEN:"8173145553:AAFSfLgn2Y7UzXmdQjZr5ROayCZkVHuLZAE",CHAT_ID:"971193945"}),actions:{async sendToTelegram(u,d,p){const s=`
 📩 <b>Новый отзыв:</b>
 
 👤 <b>Имя:</b> ${u}
