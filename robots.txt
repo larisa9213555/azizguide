@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /:lang/admin/   
+Disallow: /:lang/404      
+
+Allow: /ru
+Allow: /en
+Allow: /ru/review
+Allow: /en/review
+Allow: /ru/gallery
+Allow: /en/gallery
+Allow: /ru/application
+Allow: /en/application
+Allow: /ru/tourslist
+Allow: /en/tourslist
+Allow: /ru/tour/*
+Allow: /en/tour/*
+
+Disallow: /:lang/admin/*
+
+Allow: /assets/
+Allow: /static/
+
+Sitemap: https://azizguide.uz/sitemap.xml
